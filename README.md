@@ -20,7 +20,6 @@ This is a simple **Appointment Booking System** built using **React, Express.js,
 ### Frontend
 
 - React.js (for UI)
-- React Calendar (for date selection)
 - Axios (for API requests)
 
 ### Backend
@@ -67,7 +66,7 @@ npm start
 2. **Choose an Available Slot**.
 3. **Enter Name & Phone Number**.
 4. **Confirm Booking**.
-5. **View Booked Appointments** (optional).
+  
 
 ## API Endpoints
 
