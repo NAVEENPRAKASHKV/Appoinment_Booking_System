@@ -30,7 +30,7 @@ This is a simple **Appointment Booking System** built using **React, Express.js,
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/appointment-booking-system.git
+https://github.com/NAVEENPRAKASHKV/Appoinment_Booking_System.git
 cd appointment-booking-system
 ```
 
