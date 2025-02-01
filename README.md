@@ -1,6 +1,3 @@
-Here's a tailored README file based on your project description:
-
----
 
 # Appointment Booking System
 
