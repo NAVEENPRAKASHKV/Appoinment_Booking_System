@@ -11,7 +11,7 @@ This is a simple **Appointment Booking System** built using **React, Express.js,
 - **Booking System**: Users provide their name and phone number to confirm a booking.
 - **Backend API**: Handles appointment data storage and retrieval using MongoDB.
 
-## Technologies used in this project
+## Technologies used
 
 ### Frontend
 
